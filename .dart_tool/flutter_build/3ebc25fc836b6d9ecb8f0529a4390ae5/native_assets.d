@@ -1,0 +1,1 @@
+ /Users/alex/test_task_audety/.dart_tool/flutter_build/3ebc25fc836b6d9ecb8f0529a4390ae5/native_assets.yaml: 

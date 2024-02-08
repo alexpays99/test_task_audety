@@ -1,0 +1,6 @@
+{
+    "BASE_URL": "https://api.unsplash.com/",
+    "PHOTOS": "photos/",
+    "CLIENT_ID": "?client_id=",
+    "ACCESS_KEY": "MKtNnB57BHZINOlcM4CBI-lbJqTh86ri2B4AZqePG3g"
+  }
